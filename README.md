@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![Profile Picture](https://github.com/ChanThaMaung/ChanThaMaung/blob/main/Gojo%20Wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm Chan</h1>
 <h3 align="center">A passionate software engineering university student from Myanmar</h3>
 
