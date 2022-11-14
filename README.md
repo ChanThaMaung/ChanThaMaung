@@ -6,6 +6,5 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanthamaung&show_icons=true&locale=en" alt="chanthamaung" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanthamaung&show_icons=true&theme=radical" alt="chanthamaung" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanthamaung&show_icons=true&theme=radical)
