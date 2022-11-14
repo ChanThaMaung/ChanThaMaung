@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 <h1 align="center">Hi 👋, I'm Chan</h1>
 <h3 align="center">A passionate software engineering university student from Myanmar</h3>
 
